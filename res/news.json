@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Simple new",
+    "content": "It is simple new content",
+    "imageUrl": "https://www.w3schools.com/w3css/img_lights.jpg"
+  },
+
+  {
+    "title": "Simple new 2",
+    "content": "It is simple new 2 content",
+    "imageUrl": "https://html5css.ru/css/img_forest.jpg"
+  }
+]
